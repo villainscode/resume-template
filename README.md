@@ -2,7 +2,7 @@
 google docs resume template
 
 ## Google Docs Resume 
-> https://docs.google.com/document/d/13NzdZvpOAcFnMeHuoO6HM6weba_ctv6aYXh9nKCxlAE/edit?tab=t.0
+> https://docs.google.com/document/d/1CcF99G3_CmAG4OTYe2uNp7VeOUh3A0CQ-7zeavB5Ysk/edit?usp=sharing
 
 ## Google Presentation Resume
-> https://docs.google.com/presentation/d/1GlYKQqyPEn2RG9HIdX6femP2IAPDYS53LSzFX71q0Cs/edit#slide=id.p1
+> https://docs.google.com/presentation/d/18CwiLt-WNvqUX2zXDgnj3cajWotfdy5Z/edit?usp=sharing&ouid=101298296526663758441&rtpof=true&sd=true
